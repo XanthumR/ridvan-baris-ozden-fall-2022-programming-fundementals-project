@@ -1,0 +1,7 @@
+CENG1234;Data Structures and Algorithms;Mark Twain;5
+CENG2345;Programming Languages;Mark Lutz;3
+CENG6789;Machine Learning computer;John Wick;2
+CENG5566;computer;osman;4
+CENG3232;computer something;orhan;1
+CENG1616;programming fundementals;Barýþ Ethem Süzek;1
+CENG3133;siyaset;ozan uslan;1

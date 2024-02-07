@@ -1,0 +1,13 @@
+117987;ibrahim Kaptan;CENG6789,CENG5566,
+456765;hasan oktay;CENG5566,
+124876;Ayse Yılmaz;CENG1234,CENG2345,CENG5566,
+200378;cem yılmaz;CENG5566,
+117300;yılmaz özil;CENG1234,
+117500;ibrahim Kaptan;CENG1234,CENG2345,CENG6789,
+456543;hasan oktay;
+124343;Ayse Yılmaz;CENG1234,CENG2345,
+200343;cem yılmaz;CENG3232,
+117235;yılmaz özil;CENG1234,
+323232;ahmet meriç özden;
+433434;ridvan barış özden;CENG1234,CENG1616,
+210909;ozan uslan;CENG3133,
